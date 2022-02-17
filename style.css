@@ -1,0 +1,9 @@
+
+.card{background-color:black;margin:50px;padding:2em;width:15em;height:18em;padding:1em; border-style: solid; border-color: white; border-width: 0.5em;}
+.Holder{display:flex; flex-wrap: wrap;justify-content: center;}
+.h{color:white; text-align: center;}
+.hh{color: white; text-align: center;}
+.re{color: white; text-align: center;}
+.pri{color: white; text-align: center;}
+.col{color: white; text-align: center;}
+.mil{color: white; text-align: center;}
